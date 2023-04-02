@@ -6,8 +6,8 @@ Design a front-end for Google Search, Google Image Search, and Google Advanced S
 
 ### Specification
 
-Visit https://cs50.harvard.edu/web/2020/projects/0/search/
+🚀 https://cs50.harvard.edu/web/2020/projects/0/search/
 
 ### Video
 
-Visit https://youtu.be/uR8Zo5x-EWs
+🚀 https://youtu.be/uR8Zo5x-EWs
