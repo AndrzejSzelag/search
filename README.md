@@ -10,4 +10,4 @@
 
 ### Video
 
-🚀 [YT: Search project](https://youtu.be/uR8Zo5x-EWs)
+🚀 [Search project on YouTube](https://youtu.be/uR8Zo5x-EWs)
